@@ -16,7 +16,7 @@ Welcome to my academic projects repository! Here you will find the main projects
 - AMATA (Mathematical Analysis)
 - PRCMP (Principles of Computing)
 
-#### [2nd Semester] [X](https://github.com/your-username/semester-2-project)
+#### [2nd Semester] [Real Estate Management System](https://github.com/Goncalves2525/real-estate-management-system)
 **Description:** X
 
 **Technologies:** X
