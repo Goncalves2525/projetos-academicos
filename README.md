@@ -17,9 +17,9 @@ Welcome to my academic projects repository! Here you will find the main projects
 - PRCMP (Principles of Computing)
 
 #### [2nd Semester] [Real Estate Management System](https://github.com/Goncalves2525/real-estate-management-system)
-**Description:** X
+**Description:** A comprehensive real estate management application that allows users to register, search, and manage properties for sale or rent. The system includes features for property valuation, client management, automated notifications, viewing scheduling, and sales contract generation. The application implements object-oriented design patterns and persistent data storage.
 
-**Technologies:** X
+**Technologies:** Java, JavaFX, JUnit, Object-Oriented Programming, MySQL, UML
 
 **Related Courses:**
 - PPROG (Programming Paradigms)
@@ -28,10 +28,10 @@ Welcome to my academic projects repository! Here you will find the main projects
 - ESOFT (Software Engineering)
 
 ### 2nd Year
-#### [3rd Semester] [X](https://github.com/your-username/semester-3-project)
-**Description:** X
+#### [3rd Semester] [Organic Agriculture Management System](https://github.com/Goncalves2525/organic-agriculture-management-system)
+**Description:** An integrated system for managing organic agricultural operations that supports farm planning, crop monitoring, irrigation management, and product distribution. The system includes components for sensor data acquisition (temperature, humidity, soil conditions), agricultural operations tracking, irrigation and fertigation control, route optimization for product distribution, and comprehensive reporting through a field notebook. The project emphasizes sustainable practices specific to organic farming methods.
 
-**Technologies:** X
+**Technologies:** Java, Oracle PL/SQL, C/Assembly (for sensor management), Graph algorithms, Maven, JUnit, UML
 
 **Related Courses:**
 - ARQCP (Computer Architecture)
