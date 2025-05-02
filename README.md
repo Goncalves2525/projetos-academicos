@@ -39,10 +39,10 @@ Welcome to my academic projects repository! Here you will find the main projects
 - ESINF (Information Structures)
 - FSIAP (Applied Physics)
 
-#### [4th Semester] [X](https://github.com/your-username/semester-4-project)
-**Description:** X
+#### [4th Semester] [Jobs4U - Talent Acquisition Management System](https://github.com/Goncalves2525/Jobs4U-Talent-Acquisition-Management-System)
+**Description:** Integrated management system for recruitment companies that automates and optimizes candidate selection processes. The platform offers complete recruitment lifecycle management, from job posting to final candidate selection, with features such as automatic requirements verification, interview management, and qualification analysis through natural language processing. Developed as a multidisciplinary integrative project, applying concepts from networks, distributed systems, software engineering, and language processing.
 
-**Technologies:** X
+**Technologies:** Java, ANTLR4, Maven, H2 Database, TCP/IP, C (processes and threads), JPA, PlantUML, Git, HTML/CSS, GitHub Actions, REST API, JUnit, Domain Specific Languages (DSL), Natural Language Processing (NLP)
 
 **Related Courses:**
 - RCOMP (Computer Networks)
