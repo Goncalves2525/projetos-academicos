@@ -51,10 +51,10 @@ Welcome to my academic projects repository! Here you will find the main projects
 - EAPLI (Application Engineering)
 
 ### 3rd Year
-#### [5th Semester] [X](https://github.com/your-username/semester-5-project)
-**Description:** X
+#### [5th Semester] [Surgical Appointment and Resource Management System](https://github.com/Goncalves2525/Surgical-Appointment-and-Resource-Management-System)
+**Description:** A comprehensive healthcare management system for surgical operations that integrates patient records, operation scheduling, and resource management. The platform features a responsive web interface, 3D visualization of hospital floors, optimized scheduling of surgeries through AI techniques, and full GDPR compliance. The system was developed using a decentralized architecture with multiple specialized modules communicating through APIs and WebSockets, providing features like patient medical record management, automated appointment planning, and real-time resource visualization.
 
-**Technologies:** X
+**Technologies:** Angular, ASP.NET Core, Entity Framework, Express.js, MongoDB, Three.js, Prolog, WebSockets, TypeScript, C#, JavaScript, GDPR compliance implementation, Clean Architecture
 
 **Related Courses:**
 - SGRAI (Graphical Systems and Interfaces)
@@ -68,5 +68,8 @@ Welcome to my academic projects repository! Here you will find the main projects
 **Technologies:** X
 
 ## 📞 Contact
-* **Email**: your-email@example.com
-* **LinkedIn**: [Your Name](https://www.linkedin.com/in/your-name)
+* **Email**:
+
+1221720@isep.ipp.pt
+ricardo_goncalves2525@hotmail.com
+* **LinkedIn**: [Ricardo Gonçalves](www.linkedin.com/in/ricardo-gonçalves-83643b21a)
